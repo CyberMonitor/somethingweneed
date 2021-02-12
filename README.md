@@ -1,7 +1,7 @@
 # do
 
-IPC   inter-process communication 
-LPE		local Privilege escalation
+* IPC   inter-process communication 
+* LPE		local Privilege escalation
 
 # Article
 [1] https://medium.com/tenable-techblog/psexec-local-privilege-escalation-2e8069adc9c8
