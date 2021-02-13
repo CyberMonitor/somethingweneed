@@ -7,6 +7,7 @@
 * [1] https://medium.com/tenable-techblog/psexec-local-privilege-escalation-2e8069adc9c8
 * [2] https://book.hacktricks.xyz/windows/windows-local-privilege-escalation/named-pipe-client-impersonation
 * [3] https://halove23.blogspot.com/2021/01/another-privilege-escalation-in-windows.html
+* [4] PrintSpoofer - Abusing Impersonation Privileges on Windows 10 and Server 2019  https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
 
 
 # Twitter tips
