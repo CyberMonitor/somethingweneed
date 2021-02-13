@@ -26,6 +26,8 @@
 # Story
 * [1] https://www.zdnet.com/article/privilege-escalation-vulnerability-patched-in-docker-desktop-for-windows/
 
+# Webcasts
+* [1] Pen Testing with PowerShell: Local Privilege Escalation Technique https://www.sans.org/webcasts/pen-testing-powershell-local-privilege-escalation-technique-108745
 
 # Reference
 * [1] https://github.com/sailay1996/awesome_windows_logical_bugs
