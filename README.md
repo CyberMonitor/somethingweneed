@@ -10,7 +10,7 @@
 * [4] PrintSpoofer - Abusing Impersonation Privileges on Windows 10 and Server 2019  https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
 * [5] https://versprite.com/blog/security-research/vulnerable-named-pipe-application/
 * [6] 2021 Jan Offensive Windows IPC Internals 1: Named Pipes https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html
-
+* [7] 2019 https://versprite.com/blog/security-research/vulnerable-named-pipe-application/
 
 # Twitter tips
 * [1] EOP in Foxit PDF Reader - yeah, their updater runs as SYSTEM   https://twitter.com/LloydLabs/status/1355701446117912576
