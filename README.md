@@ -45,5 +45,6 @@
 * [2] 2019 More Than a Penetration Test (Microsoft Windows CVE-2019–1082) https://medium.com/@bazyli.michal/more-than-a-penetration-test-cve-2019-1082-647ba2e59034
 * [3] https://awesomeopensource.com/project/m0nad/awesome-privilege-escalation
 * [4] https://awesomeopensource.com/project/marcosValle/awesome-windows-red-team#privilege-escalation
+* [5] Microsoft https://docs.microsoft.com/en-us/windows/win32/ipc/interprocess-communications
 
 
