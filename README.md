@@ -9,6 +9,7 @@
 * [3] https://halove23.blogspot.com/2021/01/another-privilege-escalation-in-windows.html
 * [4] PrintSpoofer - Abusing Impersonation Privileges on Windows 10 and Server 2019  https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
 * [5] https://versprite.com/blog/security-research/vulnerable-named-pipe-application/
+* [6] 2021 Jan Offensive Windows IPC Internals 1: Named Pipes https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html
 
 
 # Twitter tips
