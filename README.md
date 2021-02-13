@@ -29,6 +29,7 @@
 * [9] https://github.com/ZecOps/CVE-2020-0796-LPE-POC 
 * [10] https://github.com/BeichenDream/BadPotato
 * [11] https://github.com/antonioCoco/RogueWinRM
+* [12] Windows IPC open source code https://github.com/microsoft/IPC
 
 # Story
 * [1] https://www.zdnet.com/article/privilege-escalation-vulnerability-patched-in-docker-desktop-for-windows/
