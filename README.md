@@ -25,3 +25,7 @@
 
 # Story
 * [1] https://www.zdnet.com/article/privilege-escalation-vulnerability-patched-in-docker-desktop-for-windows/
+
+
+# Reference
+* [1] https://github.com/sailay1996/awesome_windows_logical_bugs
