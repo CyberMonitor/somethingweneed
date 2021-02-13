@@ -37,6 +37,7 @@
 # Old info
 * [1] 2019 Another Local Privilege Escalation (LPE) Vulnerability Using Process Creation Impersonation https://www.fortinet.com/blog/threat-research/another-local-privilege-escalation-lpe-vulnerability
 * [2] 2019 More Than a Penetration Test (Microsoft Windows CVE-2019–1082) https://medium.com/@bazyli.michal/more-than-a-penetration-test-cve-2019-1082-647ba2e59034
-* p3] https://awesomeopensource.com/project/m0nad/awesome-privilege-escalation
+* [3] https://awesomeopensource.com/project/m0nad/awesome-privilege-escalation
+* [4] https://awesomeopensource.com/project/marcosValle/awesome-windows-red-team#privilege-escalation
 
 
