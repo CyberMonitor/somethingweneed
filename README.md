@@ -22,6 +22,7 @@
 * [5] Windows 10 Privilege Escalation (magnify.exe) via Dll Search Order Hijacking https://github.com/sailay1996/magnifier0day
 * [6] leverage the Windows Performance Counters https://github.com/itm4n/Perfusion
 * [7] https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/
+* [8] https://github.com/quentinhardy/pytmipe
 
 # Story
 * [1] https://www.zdnet.com/article/privilege-escalation-vulnerability-patched-in-docker-desktop-for-windows/
