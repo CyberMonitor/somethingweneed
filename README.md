@@ -23,6 +23,7 @@
 * [6] leverage the Windows Performance Counters https://github.com/itm4n/Perfusion
 * [7] https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/
 * [8] https://github.com/quentinhardy/pytmipe
+* [9] https://github.com/ZecOps/CVE-2020-0796-LPE-POC 
 
 # Story
 * [1] https://www.zdnet.com/article/privilege-escalation-vulnerability-patched-in-docker-desktop-for-windows/
