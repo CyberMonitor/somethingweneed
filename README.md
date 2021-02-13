@@ -11,6 +11,7 @@
 * [5] https://versprite.com/blog/security-research/vulnerable-named-pipe-application/
 * [6] 2021 Jan Offensive Windows IPC Internals 1: Named Pipes https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html
 * [7] 2019 https://versprite.com/blog/security-research/vulnerable-named-pipe-application/
+* [8] 2021 Feb 10.CVE-2021-24092: 12 Years in Hiding – A Privilege Escalation Vulnerability in Windows Defender  https://labs.sentinelone.com/cve-2021-24092-12-years-in-hiding-a-privilege-escalation-vulnerability-in-windows-defender/?fbclid=IwAR0bZo-7QwSYlVaiguCSx-F_Sy9kWso4Z7RASzVIU8ExYUG-b4QUWM7R8jw
 
 # Twitter tips
 * [1] EOP in Foxit PDF Reader - yeah, their updater runs as SYSTEM   https://twitter.com/LloydLabs/status/1355701446117912576
