@@ -6,7 +6,7 @@
 
 # IPC
 * 2021 Feb 21 - [Offensive Windows IPC Internals 2: RPC](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html) | [:closed_book:](../../blob/master/paper/csandker.io-Offensive_Windows_IPC_Internals_2_RPC.pdf)
-
+* 2021 Jan 10 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html) | [:closed_book:](../../blob/master/paper/csandker.io-Offensive_Windows_IPC_Internals_1_Named_Pipes.pdf)
 
 
 
