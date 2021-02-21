@@ -3,6 +3,13 @@
 * IPC   inter-process communication 
 * LPE		local Privilege escalation
 
+
+# IPC
+* 2021 Feb 21 - [Offensive Windows IPC Internals 2: RPC](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html) | [:closed_book:](../../blob/master/paper/csandker.io-Offensive_Windows_IPC_Internals_2_RPC.pdf)
+
+
+
+
 # Article
 * [1] https://medium.com/tenable-techblog/psexec-local-privilege-escalation-2e8069adc9c8
 * [2] https://book.hacktricks.xyz/windows/windows-local-privilege-escalation/named-pipe-client-impersonation
