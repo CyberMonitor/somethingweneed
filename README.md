@@ -16,7 +16,7 @@
 * [3] https://halove23.blogspot.com/2021/01/another-privilege-escalation-in-windows.html
 * [4] PrintSpoofer - Abusing Impersonation Privileges on Windows 10 and Server 2019  https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
 * [5] https://versprite.com/blog/security-research/vulnerable-named-pipe-application/
-* [6] 2021 Jan Offensive Windows IPC Internals 1: Named Pipes https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html
+* [6] 2021 Feb 10 CVE-2021-1732 https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/
 * [7] 2019 https://versprite.com/blog/security-research/vulnerable-named-pipe-application/
 * [8] 2021 Feb 10.CVE-2021-24092: 12 Years in Hiding – A Privilege Escalation Vulnerability in Windows Defender  https://labs.sentinelone.com/cve-2021-24092-12-years-in-hiding-a-privilege-escalation-vulnerability-in-windows-defender/
 * [9] 2020 Nov https://itm4n.github.io/windows-registry-rpceptmapper-eop/
