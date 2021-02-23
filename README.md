@@ -20,6 +20,8 @@
 * [7] 2019 https://versprite.com/blog/security-research/vulnerable-named-pipe-application/
 * [8] 2021 Feb 10.CVE-2021-24092: 12 Years in Hiding – A Privilege Escalation Vulnerability in Windows Defender  https://labs.sentinelone.com/cve-2021-24092-12-years-in-hiding-a-privilege-escalation-vulnerability-in-windows-defender/
 * [9] 2020 Nov https://itm4n.github.io/windows-registry-rpceptmapper-eop/
+* [10] 2020 Feb 19 https://blog.vonahi.io/srclient-dll-hijacking/  | [:closed_book:](../../blob/master/paper/blog.vonahi.io-SrClient-DLL-Hijacking-a-Windows-Server-2012-0-day-that-wont-be-patched.pdf)
+
 
 
 # Twitter tips
