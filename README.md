@@ -23,6 +23,7 @@
 * [10] 2020 Feb 19 https://blog.vonahi.io/srclient-dll-hijacking/  | [:closed_book:](../../blob/master/paper/blog.vonahi.io-SrClient-DLL-Hijacking-a-Windows-Server-2012-0-day-that-wont-be-patched.pdf)
 * [11] 2021 May  https://www.blackhat.com/asia-21/briefings/schedule/index.html#the-rise-of-potatoes-privilege-escalations-in-windows-services-22373
 * [12] 2019 Aug 01 https://blog.xpnsec.com/analysing-rpc-with-ghidra-neo4j/
+* [13] 2021 Feb 28 https://www.hackingarticles.in/window-privilege-escalation-automated-script/  | [:closed_book:](../../blob/master/paper/hackingarticles.in-Window_Privilege_Escalation_Automated_Script.pdf)
 
 
 
