@@ -25,7 +25,8 @@
 * [12] 2019 Aug 01 https://blog.xpnsec.com/analysing-rpc-with-ghidra-neo4j/
 * [13] 2021 Feb 28 https://www.hackingarticles.in/window-privilege-escalation-automated-script/  | [:closed_book:](../../blob/master/paper/hackingarticles.in-Window_Privilege_Escalation_Automated_Script.pdf)
 * [14]  leverages the Outlook Application Interface (COM Interface) to execute shellcode on a system based on a specific trigger subject line https://github.com/S4R1N/BadOutlook
-
+* [15] Windows & Active Directory Exploitation Cheat Sheet and Command Reference https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/ | [:closed_book:](../../blob/master/paper/Windows_Active_Directory_Exploitation_Cheat_Sheet.pdf)
+* [16] Windows File Confusion: Masquerading Unsigned Binaries as Signed Ones http://www.exploit-monday.com/2013/02/WindowsFileConfusion.html?m=1  | [:closed_book:](../../blob/master/paper/Windows_File_Confusion.pdf)
 
 
 # Twitter tips
